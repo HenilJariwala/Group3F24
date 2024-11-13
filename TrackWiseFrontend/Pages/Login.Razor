@@ -1,0 +1,119 @@
+@page "/login"
+@using TrackWiseFrontend.Model
+@inject NavigationManager Navigation
+
+<div class="login-container">
+    <h1>Track-Wise</h1>
+    <h2>Log In</h2>
+
+    <p>Don't have an account? <a href="/register">Create One</a></p>
+
+    <EditForm Model="LoginModel" OnValidSubmit="HandleLogin">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <!-- Username or Email Input -->
+        <div class="form-group">
+            <InputText id="UsernameOrEmail" class="form-input" placeholder="Enter your Username/Email" 
+                       @bind-Value="LoginModel.Username" />
+            <ValidationMessage For="() => LoginModel.Username" />
+        </div>
+
+        <!-- Password Input -->
+        <div class="form-group">
+            <InputText id="Password" type="password" class="form-input" placeholder="Enter the Password" 
+                       @bind-Value="LoginModel.Password" />
+            <ValidationMessage For="() => LoginModel.Password" />
+        </div>
+
+        <!-- Forgot Password Link -->
+        <a href="/forgot-password" class="forgot-password-link">Forgot Password?</a>
+
+        <!-- Submit Button -->
+        <button type="submit" class="btn btn-primary">Next</button>
+        
+        <!-- Register Button -->
+        <button class="btn btn-secondary" @onclick="NavigateToRegister">Register</button>
+    </EditForm>
+</div>
+
+<style>
+    .login-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #34495e;
+    color: #ecf0f1;
+}
+
+.forgot-password-link {
+    display: block;
+    margin-bottom: 20px;
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #1abc9c;
+    color: #ecf0f1;
+}
+
+.btn-secondary {
+    background-color: #3498db;
+    color: #ecf0f1;
+}
+    
+</style>
+@code {
+    private LoginModel LoginModel = new LoginModel(); // Initialize the model properly
+
+    private Task HandleLogin()
+    {
+    // Login logic here
+    Console.WriteLine("Login Attempted");
+    return Task.CompletedTask; // Or leave it empty if no async logic
+    }
+
+    private void NavigateToRegister()
+    {
+        Navigation.NavigateTo("/register");
+    }
+}
+
+

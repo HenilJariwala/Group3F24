@@ -1,0 +1,6 @@
+@TarckWise_HostAddress = http://localhost:5052
+
+GET {{TarckWise_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

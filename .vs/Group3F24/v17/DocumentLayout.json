@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWiseFrontend\\Pages\\Register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Model\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWiseFrontend\\Model\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Model\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWiseFrontend\\Model\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWiseFrontend\\Pages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Login.Razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWiseFrontend\\Pages\\Login.Razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Data\\TrackWiseDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\Data\\TrackWiseDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\Model\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\Model\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Controller\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\Controller\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWiseFrontend\\Pages\\Dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\TrackWise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\TrackWise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\TarckWise.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\TarckWise.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Model\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "TrackWiseFrontend\\Model\\RegisterModel.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Model\\RegisterModel.cs",
+              "RelativeToolTip": "TrackWiseFrontend\\Model\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:25:35.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.razor",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "TrackWiseFrontend\\Pages\\Register.razor",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Register.razor",
+              "RelativeToolTip": "TrackWiseFrontend\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T01:11:00.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\User.cs",
+              "RelativeDocumentMoniker": "TrackWise\\Model\\User.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\User.cs",
+              "RelativeToolTip": "TrackWise\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:56:49.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.Razor",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Login.Razor",
+              "RelativeDocumentMoniker": "TrackWiseFrontend\\Pages\\Login.Razor",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Login.Razor",
+              "RelativeToolTip": "TrackWiseFrontend\\Pages\\Login.Razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T01:12:24.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Program.cs",
+              "RelativeDocumentMoniker": "TrackWise\\Program.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Program.cs",
+              "RelativeToolTip": "TrackWise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrackWiseDbContext.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Data\\TrackWiseDbContext.cs",
+              "RelativeDocumentMoniker": "TrackWise\\Data\\TrackWiseDbContext.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Data\\TrackWiseDbContext.cs",
+              "RelativeToolTip": "TrackWise\\Data\\TrackWiseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:24:51.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "TrackWiseFrontend\\Model\\LoginModel.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Model\\LoginModel.cs",
+              "RelativeToolTip": "TrackWiseFrontend\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:37:06.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "TrackWise\\Model\\LoginModel.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\LoginModel.cs",
+              "RelativeToolTip": "TrackWise\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:02:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "TrackWiseFrontend\\Pages\\Index.razor",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Index.razor",
+              "RelativeToolTip": "TrackWiseFrontend\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T01:11:36.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "TrackWise\\Model\\RegisterModel.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Model\\RegisterModel.cs",
+              "RelativeToolTip": "TrackWise\\Model\\RegisterModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:01:58.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Controller\\AccountController.cs",
+              "RelativeDocumentMoniker": "TrackWise\\Controller\\AccountController.cs",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\Controller\\AccountController.cs",
+              "RelativeToolTip": "TrackWise\\Controller\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:09:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "TrackWiseFrontend\\Pages\\Dashboard.razor",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "TrackWiseFrontend\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T01:29:36.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackWise.csproj",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\TrackWise.csproj",
+              "RelativeDocumentMoniker": "TrackWise\\TrackWise.csproj",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\TrackWise.csproj",
+              "RelativeToolTip": "TrackWise\\TrackWise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T00:55:19.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TarckWise.http",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\TarckWise.http",
+              "RelativeDocumentMoniker": "TrackWise\\TarckWise.http",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\TarckWise.http",
+              "RelativeToolTip": "TrackWise\\TarckWise.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-13T00:59:22.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TrackWise\\appsettings.Development.json",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\appsettings.Development.json",
+              "RelativeToolTip": "TrackWise\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T00:59:05.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\appsettings.json",
+              "RelativeDocumentMoniker": "TrackWise\\appsettings.json",
+              "ToolTip": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWise\\appsettings.json",
+              "RelativeToolTip": "TrackWise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T00:58:56.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

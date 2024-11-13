@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\obj\\Debug\\net8.0\\compressed\\3xbfvxq354.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrackWiseFrontend.styles.css",
+      "PackagePath": "staticwebassets\\TrackWiseFrontend.styles.css"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Conestoga BCS Year 1\\Semester 3\\System Analysis and Design\\Group3F24\\TrackWiseFrontend\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TrackWiseFrontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TrackWiseFrontend.props",
+      "PackagePath": "build\\TrackWiseFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TrackWiseFrontend.props",
+      "PackagePath": "buildMultiTargeting\\TrackWiseFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TrackWiseFrontend.props",
+      "PackagePath": "buildTransitive\\TrackWiseFrontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
