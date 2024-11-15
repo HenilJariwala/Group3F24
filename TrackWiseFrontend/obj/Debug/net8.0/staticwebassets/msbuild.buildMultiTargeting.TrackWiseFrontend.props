@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\TrackWiseFrontend.props" />
-</Project>
